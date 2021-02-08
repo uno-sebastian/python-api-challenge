@@ -16,23 +16,43 @@ In this example, you'll be creating a Python script to visualize the weather of 
 
 The first requirement is to create a series of scatter plots to showcase the following relationships:
 
-* Temperature (F) vs. Latitude
-* Humidity (%) vs. Latitude
-* Cloudiness (%) vs. Latitude
-* Wind Speed (mph) vs. Latitude
+#### Temperature (F) vs. Latitude
+![Cities Temp vs Latitude](Images/Cities_TempVLat.png)
 
-After each plot, add a sentence or two explaining what the code is analyzing.
+#### Humidity (%) vs. Latitude
+![Cities Humidity vs Latitude](Images/Cities_HumidityVLat.png)
+
+#### Cloudiness (%) vs. Latitude
+![Cities Cloudiness vs Latitude](Images/Cities_CloudinessVLat.png)
+
+#### Wind Speed (mph) vs. Latitude
+![Cities Wind Speed vs Latitude](Images/Cities_WindSpeedVLat.png)
 
 The second requirement is to run linear regression on each relationship. This time, separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
-* Northern Hemisphere - Temperature (F) vs. Latitude
-* Southern Hemisphere - Temperature (F) vs. Latitude
-* Northern Hemisphere - Humidity (%) vs. Latitude
-* Southern Hemisphere - Humidity (%) vs. Latitude
-* Northern Hemisphere - Cloudiness (%) vs. Latitude
-* Southern Hemisphere - Cloudiness (%) vs. Latitude
-* Northern Hemisphere - Wind Speed (mph) vs. Latitude
-* Southern Hemisphere - Wind Speed (mph) vs. Latitude
+#### Northern Hemisphere - Temperature (F) vs. Latitude
+![Northern Hemisphere Temp vs Latitude](Images/NorthHemiSphere_TempVLat.png)
+
+#### Southern Hemisphere - Temperature (F) vs. Latitude
+![Southern Hemisphere Temp vs Latitude](Images/SouthHemiSphere_TempVLat.png)
+
+#### Northern Hemisphere - Humidity (%) vs. Latitude
+![Northern Hemisphere Humidity vs Latitude](Images/NorthHemiSphere_HumidityVLat.png)
+
+#### Southern Hemisphere - Humidity (%) vs. Latitude
+![Southern Hemisphere Humidity vs Latitude](Images/SouthHemiSphere_HumidityVLat.png)
+
+#### Northern Hemisphere - Cloudiness (%) vs. Latitude
+![Northern Hemisphere Cloudiness vs Latitude](Images/NorthHemiSphere_CloudinessVLat.png)
+
+#### Southern Hemisphere - Cloudiness (%) vs. Latitude
+![Southern Hemisphere Cloudiness vs Latitude](Images/SouthHemiSphere_CloudinessVLat.png)
+
+#### Northern Hemisphere - Wind Speed (mph) vs. Latitude
+![Northern Hemisphere Wind Speed vs Latitude](Images/NorthHemiSphere_WindSpeedVLat.png)
+
+#### Southern Hemisphere - Wind Speed (mph) vs. Latitude
+![Southern Hemisphere Wind Speed vs Latitude](Images/SouthHemiSphere_WindSpeedVLat.png)
 
 ### Part II - VacationPy
 
